@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_heading_subtitles",
+  "info": {
+    "displayName": "subtitle"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    }
+  }
+}
