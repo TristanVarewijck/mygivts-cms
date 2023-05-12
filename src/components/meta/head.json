@@ -1,15 +1,18 @@
 {
   "collectionName": "components_meta_heads",
   "info": {
-    "displayName": "head"
+    "displayName": "head",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "title": {
-      "type": "string"
+      "type": "string",
+      "default": "-"
     },
     "description": {
-      "type": "text"
+      "type": "text",
+      "default": "-"
     }
   }
 }

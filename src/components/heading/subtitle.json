@@ -1,15 +1,18 @@
 {
   "collectionName": "components_heading_subtitles",
   "info": {
-    "displayName": "subtitle"
+    "displayName": "subtitle",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "title": {
-      "type": "string"
+      "type": "string",
+      "default": "-"
     },
     "subtitle": {
-      "type": "text"
+      "type": "text",
+      "default": "-"
     }
   }
 }

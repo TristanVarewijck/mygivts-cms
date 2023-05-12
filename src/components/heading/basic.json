@@ -1,12 +1,14 @@
 {
   "collectionName": "components_heading_basics",
   "info": {
-    "displayName": "basic"
+    "displayName": "basic",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "title": {
-      "type": "string"
+      "type": "string",
+      "default": "-"
     }
   }
 }
