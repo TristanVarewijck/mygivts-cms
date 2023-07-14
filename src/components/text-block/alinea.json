@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_text_block_alineas",
+  "info": {
+    "displayName": "basic",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

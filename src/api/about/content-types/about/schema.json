@@ -4,7 +4,8 @@
   "info": {
     "singularName": "about",
     "pluralName": "abouts",
-    "displayName": "About"
+    "displayName": "About",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -20,6 +21,21 @@
       "type": "component",
       "repeatable": false,
       "component": "meta.head"
+    },
+    "teamMembers": {
+      "type": "component",
+      "repeatable": true,
+      "component": "text-block.image"
+    },
+    "Features": {
+      "type": "component",
+      "repeatable": true,
+      "component": "heading.basic"
+    },
+    "alineas": {
+      "type": "component",
+      "repeatable": true,
+      "component": "text-block.alinea"
     }
   }
 }
